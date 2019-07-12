@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/imageEdit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/integrate-later/imageEdit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/integrate-later/iris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/integrate-later/quic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/integrate-later/urlDownloader" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/iris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/quic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/urlDownloader" vcs="Git" />
+  </component>
+</project>
